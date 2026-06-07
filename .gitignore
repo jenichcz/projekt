@@ -1,0 +1,20 @@
+# Závislosti
+node_modules/
+
+# Build
+.nuxt/
+.output/
+dist/
+
+# Env soubory – NIKDY necommituj!
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
